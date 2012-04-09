@@ -17,9 +17,9 @@ Jeweler::Tasks.new do |gem|
   gem.name = "date_formatter"
   gem.homepage = "http://github.com/refiito/date_formatter"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "margus@apprise.eu"
+  gem.summary = "Rails date formatter plugin extraced to a gem"
+  gem.description = "Rails date formatter plugin extraced to a gem"
+  gem.email = "margus@lapikud.ee"
   gem.authors = ["Margus"]
   # dependencies defined in Gemfile
 end
